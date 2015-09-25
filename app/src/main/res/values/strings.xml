@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Barcode Scanning Inventory Management</string>
 
-    <string name="hello_world">Welcome to Barcode Scanning Inventory Management Prototype!</string>
+    <string name="textview">Welcome to Barcode Scanning Inventory Management Prototype!</string>
+    <string name="button">Update The TextView</string>
+    <string name="hint">A Name</string>
+
     <string name="action_settings">Settings</string>
 </resources>
